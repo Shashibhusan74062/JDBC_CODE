@@ -21,7 +21,7 @@ public class Data_fetch
 			String user=res.getString(1);
 			String pwd1=res.getString(2);
 			System.out.println(user+""+pwd1);
-			System.out.println("connected sucessfully........");
+			System.out.println("connected sucessfully............");
 		}
 	}
 }
